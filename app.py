@@ -141,6 +141,6 @@ if __name__ == "__main__":
 # Current Monthly Debt: 350,
 # Monthly Income: 6000
 # Loan Amount: 200000
-# Home Value: 320000
+# Home Value: 250000
 
 # Path saving qualifying loans data/qualifying_loans.csv
